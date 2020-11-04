@@ -11,3 +11,5 @@ public class GtbEntranceQuizApplication {
 	}
 
 }
+
+// TODO GTB-综合: * 完成度低，无法准确评价各维度

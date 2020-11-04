@@ -16,6 +16,7 @@ public class StudentController {
         this.studentService = studentService;
     }
 
+    // TODO GTB-工程实践: - 拼写错误
     @PostMapping("/add-stydent")
     public ResponseEntity<Void> addStudent(@RequestBody Student student){
         studentService.addStudent(student);
